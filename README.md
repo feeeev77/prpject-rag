@@ -1,1 +1,1 @@
-# prpject-rag
+# project-rag
